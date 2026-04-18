@@ -7507,134 +7507,134 @@ export const REAL_MENU_DATA: RealRecipe[] = [
     "ingredients": [
       {
         "name": "minyak masak vesawit 8.5 kg",
-        "cost": 2.3039,
-        "quantity": "333.3333333g",
+        "cost": 0.2304,
+        "quantity": "33.3333333g",
         "source": "Invoice"
       },
       {
         "name": "Bawang Holland 1 kg",
-        "cost": 2.4,
-        "quantity": "300.0g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Bawang Besar Merah 1 kg",
-        "cost": 1.2,
-        "quantity": "200.0g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Bawang Putih 1 kg",
-        "cost": 1.04,
-        "quantity": "80.0g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Halia Tua 250 g",
-        "cost": 0.96,
-        "quantity": "80.0g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Serai 20 pcs",
-        "cost": 0.225,
-        "quantity": "1pcs",
-        "source": "Invoice"
-      },
-      {
-        "name": "Kayu Manis 500 g",
-        "cost": 0.1167,
-        "quantity": "3.333333333g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Bunga Lawang 500 g",
-        "cost": 0.025,
-        "quantity": "1.0g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Pelaga 500 g",
-        "cost": 0.1333,
-        "quantity": "0.6666666667g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Bunga Cengkih 250 g",
-        "cost": 0.04,
-        "quantity": "0.6666666667g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Baba's Serbuk Kari Ayam 1 kg",
-        "cost": 3.5,
-        "quantity": "100.0g",
-        "source": "Invoice"
-      },
-      {
-        "name": "Baba's Serbuk Cili 1 kg",
-        "cost": 0.45,
+        "cost": 0.24,
         "quantity": "30.0g",
         "source": "Invoice"
       },
       {
-        "name": "jintan manis 500 gm",
-        "cost": 0.2016,
+        "name": "Bawang Besar Merah 1 kg",
+        "cost": 0.12,
+        "quantity": "20.0g",
+        "source": "Invoice"
+      },
+      {
+        "name": "Bawang Putih 1 kg",
+        "cost": 0.104,
         "quantity": "8.0g",
         "source": "Invoice"
       },
       {
-        "name": "Serbuk Kas Kas 500gm",
-        "cost": 0.392,
+        "name": "Halia Tua 250 g",
+        "cost": 0.096,
         "quantity": "8.0g",
         "source": "Invoice"
       },
       {
-        "name": "Heinz Tomato Puree 3 kg",
-        "cost": 1.495,
-        "quantity": "100.0g",
+        "name": "Serai 20 pcs",
+        "cost": 0.0225,
+        "quantity": "0.1pcs",
         "source": "Invoice"
       },
       {
-        "name": "Jalen Kicap Manis 2L",
-        "cost": 0.9533,
-        "quantity": "86.66666667ml",
+        "name": "Kayu Manis 500 g",
+        "cost": 0.0117,
+        "quantity": "0.33333333g",
         "source": "Invoice"
       },
       {
-        "name": "Kicap Masakan Cheong Caramel 375ml",
-        "cost": 5.376,
-        "quantity": "240.0ml",
+        "name": "Bunga Lawang 500 g",
+        "cost": 0.0025,
+        "quantity": "0.1g",
         "source": "Invoice"
       },
       {
-        "name": "Puteri Sos Tiram 4.2 kg",
-        "cost": 0.2143,
-        "quantity": "60.0g",
+        "name": "Pelaga 500 g",
+        "cost": 0.0133,
+        "quantity": "0.0666667g",
         "source": "Invoice"
       },
       {
-        "name": "Garam Halus Double Swallow 350 g",
-        "cost": 0.0457,
+        "name": "Bunga Cengkih 250 g",
+        "cost": 0.004,
+        "quantity": "0.0666667g",
+        "source": "Invoice"
+      },
+      {
+        "name": "Baba's Serbuk Kari Ayam 1 kg",
+        "cost": 0.35,
         "quantity": "10.0g",
         "source": "Invoice"
       },
       {
+        "name": "Baba's Serbuk Cili 1 kg",
+        "cost": 0.045,
+        "quantity": "3.0g",
+        "source": "Invoice"
+      },
+      {
+        "name": "jintan manis 500 gm",
+        "cost": 0.0202,
+        "quantity": "0.8g",
+        "source": "Invoice"
+      },
+      {
+        "name": "Serbuk Kas Kas 500gm",
+        "cost": 0.0392,
+        "quantity": "0.8g",
+        "source": "Invoice"
+      },
+      {
+        "name": "Heinz Tomato Puree 3 kg",
+        "cost": 0.1495,
+        "quantity": "10.0g",
+        "source": "Invoice"
+      },
+      {
+        "name": "Jalen Kicap Manis 2L",
+        "cost": 0.0953,
+        "quantity": "8.6666667ml",
+        "source": "Invoice"
+      },
+      {
+        "name": "Kicap Masakan Cheong Caramel 375ml",
+        "cost": 0.5376,
+        "quantity": "24.0ml",
+        "source": "Invoice"
+      },
+      {
+        "name": "Puteri Sos Tiram 4.2 kg",
+        "cost": 0.0214,
+        "quantity": "6.0g",
+        "source": "Invoice"
+      },
+      {
+        "name": "Garam Halus Double Swallow 350 g",
+        "cost": 0.0046,
+        "quantity": "1.0g",
+        "source": "Invoice"
+      },
+      {
         "name": "Kasar Gula Pasir 1 kg",
-        "cost": 0.0732,
-        "quantity": "20.0g",
+        "cost": 0.0073,
+        "quantity": "2.0g",
         "source": "Invoice"
       },
       {
         "name": "Knorr Chicken Stock 1 kg",
-        "cost": 0.5,
-        "quantity": "20.0g",
+        "cost": 0.05,
+        "quantity": "2.0g",
         "source": "Invoice"
       },
       {
         "name": "Maggi Cukup Rasa Seasoning 500 g",
-        "cost": 0.52,
-        "quantity": "20.0g",
+        "cost": 0.052,
+        "quantity": "2.0g",
         "source": "Invoice"
       },
       {
@@ -7645,8 +7645,8 @@ export const REAL_MENU_DATA: RealRecipe[] = [
       },
       {
         "name": "Serbuk Jintan Putih 250g",
-        "cost": 0.448,
-        "quantity": "8.0g",
+        "cost": 0.0448,
+        "quantity": "0.8g",
         "source": "Invoice"
       }
     ]
